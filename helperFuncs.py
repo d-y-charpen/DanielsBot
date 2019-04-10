@@ -136,5 +136,8 @@ champ_list = [
 "Ornn",
 "Rakan",
 "Xayah",
-"Zoe"
+"Zoe",
+"Kai'sa",
+"Neeko",
+"Sylas"
 ]
